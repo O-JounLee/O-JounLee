@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m a researcher working on graph learning.
-- 🌱 I’m working at The Catholic University of Korea (CUK) with my team, [Network Science Lab](https://nslab-cuk.github.io/) (@NS-CUK).
+- 🌱 I’m working at The Catholic University of Korea (CUK) with my team, [Network Science Lab](https://nslab-cuk.github.io/) (@NSLab-CUK).
